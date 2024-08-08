@@ -45,6 +45,8 @@ A vector database is created from the chunks.
 Users interact with the chatbot by typing queries.
 The chatbot responds based on the relevant data from the vector database and chat history.
 
+Check `running module.mp4` and `chatbot demo.mp4` for understanding with a demo.
+
 ## License
 This project is licensed under the MIT License.  
 
