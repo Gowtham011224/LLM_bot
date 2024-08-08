@@ -29,7 +29,7 @@ Ensure you have a directory for uploading PDFs.
 The provided 'chatbot_app.py' contains Streamlit script.
 
 ### Run the Streamlit Application
-streamlit run chatbot_app.py
+`streamlit run chatbot_app.py`
 
 ## Interact with the application in the browser
 Open a browser and navigate to the URL provided by Streamlit (usually http://localhost:8501).
