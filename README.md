@@ -1,4 +1,4 @@
-# LM Studio Streaming Chatbot
+# LLM Chatbot
 
 This project is a Streamlit application that processes PDF documents and answers questions based on the content using a chatbot interface. The chatbot utilizes Langchain, OpenAI, SentenceTransformers, ChromaDB, and other libraries.
 
@@ -36,3 +36,19 @@ Use the sidebar to upload a PDF document and click "Process".
 Once the PDF is processed, interact with the chatbot by typing messages in the chat input field.
 
 ### By following these steps, you should be able to set up and run the Streamlit chatbot application successfully.
+
+## Streamlit Workflow
+Users upload PDFs via the sidebar.
+PDFs are processed and split into chunks.
+A vector database is created from the chunks.
+Users interact with the chatbot by typing queries.
+The chatbot responds based on the relevant data from the vector database and chat history.
+
+## License
+This project is licensed under the MIT License.  
+
+## Contact
+For questions or support, please contact [gowtham.raja211224@gmail.com].
+
+
+
