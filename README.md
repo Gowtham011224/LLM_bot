@@ -22,7 +22,8 @@ If not installed, refer to the LM Studio documentation for installation and setu
 
 ### Prepare the Directory Structure:
 Ensure you have a directory for uploading PDFs.
-mkdir uploaded_pdfs
+
+`mkdir uploaded_pdfs`
 
 ### Download the Script:
 The provided 'chatbot_app.py' contains Streamlit script.
