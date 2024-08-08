@@ -2,7 +2,7 @@
 
 This project is a Streamlit application that processes PDF documents and answers questions based on the content using a chatbot interface. The chatbot utilizes Langchain, OpenAI, SentenceTransformers, ChromaDB, and other libraries.
 
-## Prerequisites
+## Pre-requisites
 
 - Python 3.7+
 - LM Studio 
