@@ -78,7 +78,7 @@ def get_relevant_data(query, db):
 
 # Main function to handle Streamlit interactions
 def main():
-    st.set_page_config(page_title="LLM Chatbot", page_icon="🤖")
+    st.set_page_config(page_title="Data Chatbot", page_icon="🤖")
     st.title("LLM Chatbot")
 
     # Initialize vectorstore in session state if it does not exist
